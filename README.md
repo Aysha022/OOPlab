@@ -52,6 +52,7 @@ ceptions. **
 sum of all the integers (Use String Tokenizer class of java.util). ** 
 
 (D) Exception handling and multi-threading applications:
+
 10) Write a Java program that shows the usage of try, catch, throws and finally. ** 
 
 11) Write a Java program that implements a multi-threaded program which has three threads. 
