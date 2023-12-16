@@ -1,5 +1,5 @@
 # OOPlab
-) Basic programs using datatypes, operators, and control statements in Java.
+(A) Basic programs using datatypes, operators, and control statements in Java.
 
 1) Write a Java program that checks whether a given string is a palindrome or not.
 
