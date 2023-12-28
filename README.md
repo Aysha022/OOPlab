@@ -9,6 +9,7 @@ Ex: MALAYALAM is palindrome.
 
 3) Write a Java program to multiply two given matrices. **
 
+
 (B) Object Oriented Programming Concepts: Problem on the use of constructors, inheritance, 
 
 method overloading & overriding, polymorphism and garbage collection:
@@ -37,7 +38,7 @@ es contains only the method numberOfSides( ) that shows the number of sides in t
 
 en geometrical structures. (Exercise to understand polymorphism). ** 
 
-6) Write a Java program to demonstrate the use of garbage collector. 
+
 
 (C) Handling different types of files as well as input and output management methods:
 
@@ -51,6 +52,7 @@ ceptions. **
 
 sum of all the integers (Use String Tokenizer class of java.util). ** 
 
+
 (D) Exception handling and multi-threading applications:
 
 10) Write a Java program that shows the usage of try, catch, throws and finally. ** 
@@ -63,7 +65,8 @@ thread computes the square of the number and prints. If the value is odd the thi
 
 will print the value of cube of the number. 
 
-12) Write a Java program that shows thread synchronization. **
+12)Write a Java program that shows thread synchronization. **
+
 
 (E) Graphics Programming: 
 
@@ -82,6 +85,7 @@ and only one light can be on at a time. No light is on when the program starts. 
 15) Write a Java program to display all records from a table using Java Database Connectivi-
 
 ty (JDBC). 
+
 
 (F) Standard Searching and Sorting Algorithms using data structures and algorithms learned 
 
